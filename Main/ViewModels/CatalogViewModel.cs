@@ -28,9 +28,9 @@ namespace Main.ViewModels
         [ObservableProperty] private ObservableCollection<Genre> _genres = new();
         [ObservableProperty] private Genre? _selectedGenre;
         [ObservableProperty] private string _search = "";
-        [ObservableProperty] private string _sortBy = "Name";
+        [ObservableProperty] private string _sortBy = "Название";
 
-        public List<string> SortOptions => new() { "Name", "Rating" };
+        public List<string> SortOptions => new() { "Название", "Рейтинг" };
 
         public CatalogViewModel()
         {
@@ -69,7 +69,7 @@ namespace Main.ViewModels
 
             var list = query.ToList();
 
-            list = _sortBy == "Rating"
+            list = _sortBy == "Рейтинг"
                 ? list.OrderByDescending(b => b.Reviews.Any() ? b.Reviews.Average(r => r.Rating) : 0).ToList()
                 : list.OrderBy(b => b.BookName).ToList();
 

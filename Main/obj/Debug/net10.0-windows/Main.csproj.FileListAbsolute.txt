@@ -123,3 +123,4 @@ C:\Users\KorZh\Desktop\Z\Code\C#\VS\УП Гордов\Main\obj\Debug\net10.0-win
 C:\Users\KorZh\Desktop\Z\Code\C#\VS\УП Гордов\Main\obj\Debug\net10.0-windows\Views\BookView.g.cs
 C:\Users\KorZh\Desktop\Z\Code\C#\VS\УП Гордов\Main\obj\Debug\net10.0-windows\Views\InputDialogWindow.baml
 C:\Users\KorZh\Desktop\Z\Code\C#\VS\УП Гордов\Main\obj\Debug\net10.0-windows\Views\InputDialogWindow.g.cs
+C:\Users\KorZh\Desktop\Z\Code\C#\VS\УП Гордов\Main\obj\Debug\net10.0-windows\Main.sourcelink.json

@@ -3,36 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\korzh\\desktop\\z\\code\\c#\\vs\\\u0443\u043F \u0433\u043E\u0440\u0434\u043E\u0432\\main\\viewmodels\\authviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\viewmodels\\authviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\korzh\\desktop\\z\\code\\c#\\vs\\\u0443\u043F \u0433\u043E\u0440\u0434\u043E\u0432\\main\\views\\authview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\views\\authview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\korzh\\desktop\\z\\code\\c#\\vs\\\u0443\u043F \u0433\u043E\u0440\u0434\u043E\u0432\\main\\views\\authorview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\views\\authorview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\korzh\\desktop\\z\\code\\c#\\vs\\\u0443\u043F \u0433\u043E\u0440\u0434\u043E\u0432\\main\\viewmodels\\profileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\viewmodels\\profileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\korzh\\desktop\\z\\code\\c#\\vs\\\u0443\u043F \u0433\u043E\u0440\u0434\u043E\u0432\\main\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\korzh\\desktop\\z\\code\\c#\\vs\\\u0443\u043F \u0433\u043E\u0440\u0434\u043E\u0432\\main\\viewmodels\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\viewmodels\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\korzh\\desktop\\z\\code\\c#\\vs\\\u0443\u043F \u0433\u043E\u0440\u0434\u043E\u0432\\main\\viewmodels\\frozenviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\viewmodels\\frozenviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\korzh\\desktop\\z\\code\\c#\\vs\\\u0443\u043F \u0433\u043E\u0440\u0434\u043E\u0432\\main\\viewmodels\\catalogviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\viewmodels\\catalogviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\korzh\\desktop\\z\\code\\c#\\vs\\\u0443\u043F \u0433\u043E\u0440\u0434\u043E\u0432\\main\\viewmodels\\bookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\viewmodels\\bookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\korzh\\desktop\\z\\code\\c#\\vs\\\u0443\u043F \u0433\u043E\u0440\u0434\u043E\u0432\\main\\viewmodels\\authviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\viewmodels\\authviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\korzh\\desktop\\z\\code\\c#\\vs\\\u0443\u043F \u0433\u043E\u0440\u0434\u043E\u0432\\main\\viewmodels\\authorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,72 +23,132 @@
       "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\viewmodels\\adminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\korzh\\desktop\\z\\code\\c#\\vs\\\u0443\u043F \u0433\u043E\u0440\u0434\u043E\u0432\\main\\viewmodels\\frozenviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\viewmodels\\frozenviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\korzh\\desktop\\z\\code\\c#\\vs\\\u0443\u043F \u0433\u043E\u0440\u0434\u043E\u0432\\main\\views\\frozenview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\views\\frozenview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\korzh\\desktop\\z\\code\\c#\\vs\\\u0443\u043F \u0433\u043E\u0440\u0434\u043E\u0432\\main\\views\\catalogview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\views\\catalogview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\korzh\\desktop\\z\\code\\c#\\vs\\\u0443\u043F \u0433\u043E\u0440\u0434\u043E\u0432\\main\\models\\unfreezeapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\models\\unfreezeapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\korzh\\desktop\\z\\code\\c#\\vs\\\u0443\u043F \u0433\u043E\u0440\u0434\u043E\u0432\\main\\views\\adminview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\views\\adminview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\korzh\\desktop\\z\\code\\c#\\vs\\\u0443\u043F \u0433\u043E\u0440\u0434\u043E\u0432\\main\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\korzh\\desktop\\z\\code\\c#\\vs\\\u0443\u043F \u0433\u043E\u0440\u0434\u043E\u0432\\main\\views\\profileview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\views\\profileview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\korzh\\desktop\\z\\code\\c#\\vs\\\u0443\u043F \u0433\u043E\u0440\u0434\u043E\u0432\\main\\viewmodels\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\viewmodels\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\korzh\\desktop\\z\\code\\c#\\vs\\\u0443\u043F \u0433\u043E\u0440\u0434\u043E\u0432\\main\\views\\listsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\views\\listsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\korzh\\desktop\\z\\code\\c#\\vs\\\u0443\u043F \u0433\u043E\u0440\u0434\u043E\u0432\\main\\viewmodels\\listsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\viewmodels\\listsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\korzh\\desktop\\z\\code\\c#\\vs\\\u0443\u043F \u0433\u043E\u0440\u0434\u043E\u0432\\main\\views\\bookview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\views\\bookview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\korzh\\desktop\\z\\code\\c#\\vs\\\u0443\u043F \u0433\u043E\u0440\u0434\u043E\u0432\\main\\viewmodels\\bookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\viewmodels\\bookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\korzh\\desktop\\z\\code\\c#\\vs\\\u0443\u043F \u0433\u043E\u0440\u0434\u043E\u0432\\main\\views\\inputdialogwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\views\\inputdialogwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\korzh\\desktop\\z\\code\\c#\\vs\\\u0443\u043F \u0433\u043E\u0440\u0434\u043E\u0432\\main\\views\\inputdialogwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\views\\inputdialogwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\korzh\\desktop\\z\\code\\c#\\vs\\\u0443\u043F \u0433\u043E\u0440\u0434\u043E\u0432\\main\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\korzh\\desktop\\z\\code\\c#\\vs\\\u0443\u043F \u0433\u043E\u0440\u0434\u043E\u0432\\main\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\korzh\\desktop\\z\\code\\c#\\vs\\\u0443\u043F \u0433\u043E\u0440\u0434\u043E\u0432\\main\\models\\bookextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\models\\bookextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\korzh\\desktop\\z\\code\\c#\\vs\\\u0443\u043F \u0433\u043E\u0440\u0434\u043E\u0432\\main\\views\\authorview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\views\\authorview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\korzh\\desktop\\z\\code\\c#\\vs\\\u0443\u043F \u0433\u043E\u0440\u0434\u043E\u0432\\main\\core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\korzh\\desktop\\z\\code\\c#\\vs\\\u0443\u043F \u0433\u043E\u0440\u0434\u043E\u0432\\main\\views\\profileview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\views\\profileview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\korzh\\desktop\\z\\code\\c#\\vs\\\u0443\u043F \u0433\u043E\u0440\u0434\u043E\u0432\\main\\views\\mainpageview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\views\\mainpageview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\korzh\\desktop\\z\\code\\c#\\vs\\\u0443\u043F \u0433\u043E\u0440\u0434\u043E\u0432\\main\\models\\jesterandkingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\models\\jesterandkingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\korzh\\desktop\\z\\code\\c#\\vs\\\u0443\u043F \u0433\u043E\u0440\u0434\u043E\u0432\\main\\views\\authview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\views\\authview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\korzh\\desktop\\z\\code\\c#\\vs\\\u0443\u043F \u0433\u043E\u0440\u0434\u043E\u0432\\main\\views\\authorview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\views\\authorview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\korzh\\desktop\\z\\code\\c#\\vs\\\u0443\u043F \u0433\u043E\u0440\u0434\u043E\u0432\\main\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\korzh\\desktop\\z\\code\\c#\\vs\\\u0443\u043F \u0433\u043E\u0440\u0434\u043E\u0432\\main\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\korzh\\desktop\\z\\code\\c#\\vs\\\u0443\u043F \u0433\u043E\u0440\u0434\u043E\u0432\\main\\views\\adminview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\views\\adminview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\korzh\\desktop\\z\\code\\c#\\vs\\\u0443\u043F \u0433\u043E\u0440\u0434\u043E\u0432\\main\\core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\korzh\\desktop\\z\\code\\c#\\vs\\\u0443\u043F \u0433\u043E\u0440\u0434\u043E\u0432\\main\\viewmodels\\listsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\viewmodels\\listsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\korzh\\desktop\\z\\code\\c#\\vs\\\u0443\u043F \u0433\u043E\u0440\u0434\u043E\u0432\\main\\viewmodels\\profileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\viewmodels\\profileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\korzh\\desktop\\z\\code\\c#\\vs\\\u0443\u043F \u0433\u043E\u0440\u0434\u043E\u0432\\main\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\korzh\\desktop\\z\\code\\c#\\vs\\\u0443\u043F \u0433\u043E\u0440\u0434\u043E\u0432\\main\\models\\bookextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\models\\bookextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\korzh\\desktop\\z\\code\\c#\\vs\\\u0443\u043F \u0433\u043E\u0440\u0434\u043E\u0432\\main\\models\\complaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\models\\complaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\korzh\\desktop\\z\\code\\c#\\vs\\\u0443\u043F \u0433\u043E\u0440\u0434\u043E\u0432\\main\\models\\jesterandkingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\models\\jesterandkingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\korzh\\desktop\\z\\code\\c#\\vs\\\u0443\u043F \u0433\u043E\u0440\u0434\u043E\u0432\\main\\models\\readinglist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\models\\readinglist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\korzh\\desktop\\z\\code\\c#\\vs\\\u0443\u043F \u0433\u043E\u0440\u0434\u043E\u0432\\main\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\korzh\\desktop\\z\\code\\c#\\vs\\\u0443\u043F \u0433\u043E\u0440\u0434\u043E\u0432\\main\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\korzh\\desktop\\z\\code\\c#\\vs\\\u0443\u043F \u0433\u043E\u0440\u0434\u043E\u0432\\main\\models\\roleapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\models\\roleapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\korzh\\desktop\\z\\code\\c#\\vs\\\u0443\u043F \u0433\u043E\u0440\u0434\u043E\u0432\\main\\views\\bookview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\views\\bookview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\korzh\\desktop\\z\\code\\c#\\vs\\\u0443\u043F \u0433\u043E\u0440\u0434\u043E\u0432\\main\\views\\catalogview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\views\\catalogview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\korzh\\desktop\\z\\code\\c#\\vs\\\u0443\u043F \u0433\u043E\u0440\u0434\u043E\u0432\\main\\views\\inputdialogwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\views\\inputdialogwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\korzh\\desktop\\z\\code\\c#\\vs\\\u0443\u043F \u0433\u043E\u0440\u0434\u043E\u0432\\main\\views\\listsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\views\\listsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\korzh\\desktop\\z\\code\\c#\\vs\\\u0443\u043F \u0433\u043E\u0440\u0434\u043E\u0432\\main\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\korzh\\desktop\\z\\code\\c#\\vs\\\u0443\u043F \u0433\u043E\u0440\u0434\u043E\u0432\\main\\views\\inputdialogwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\views\\inputdialogwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|c:\\users\\korzh\\desktop\\z\\code\\c#\\vs\\\u0443\u043F \u0433\u043E\u0440\u0434\u043E\u0432\\main\\views\\authorview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|Main\\Main.csproj|solutionrelative:main\\views\\authorview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\KorZh\\AppData\\Local\\Temp\\.vsdbgsrc\\d1133ca555bae3deeef706846e68161f5c2e94891602db57b1fa935528f94322\\ButtonBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -133,7 +173,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -150,6 +190,128 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "AuthorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\ViewModels\\AuthorViewModel.cs",
+              "RelativeDocumentMoniker": "Main\\ViewModels\\AuthorViewModel.cs",
+              "ToolTip": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\ViewModels\\AuthorViewModel.cs",
+              "RelativeToolTip": "Main\\ViewModels\\AuthorViewModel.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAcwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T18:11:30.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\ViewModels\\AuthViewModel.cs",
+              "RelativeDocumentMoniker": "Main\\ViewModels\\AuthViewModel.cs",
+              "ToolTip": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\ViewModels\\AuthViewModel.cs",
+              "RelativeToolTip": "Main\\ViewModels\\AuthViewModel.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwBgAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T15:48:45.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Main\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\MainWindow.xaml",
+              "RelativeToolTip": "Main\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-09T11:32:04.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthView.xaml",
+              "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Views\\AuthView.xaml",
+              "RelativeDocumentMoniker": "Main\\Views\\AuthView.xaml",
+              "ToolTip": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Views\\AuthView.xaml",
+              "RelativeToolTip": "Main\\Views\\AuthView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-09T14:54:43.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthorView.xaml",
+              "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Views\\AuthorView.xaml",
+              "RelativeDocumentMoniker": "Main\\Views\\AuthorView.xaml",
+              "ToolTip": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Views\\AuthorView.xaml",
+              "RelativeToolTip": "Main\\Views\\AuthorView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-09T18:32:30.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrozenViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\ViewModels\\FrozenViewModel.cs",
+              "RelativeDocumentMoniker": "Main\\ViewModels\\FrozenViewModel.cs",
+              "ToolTip": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\ViewModels\\FrozenViewModel.cs",
+              "RelativeToolTip": "Main\\ViewModels\\FrozenViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T18:11:49.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\ViewModels\\AdminViewModel.cs",
+              "RelativeDocumentMoniker": "Main\\ViewModels\\AdminViewModel.cs",
+              "ToolTip": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\ViewModels\\AdminViewModel.cs",
+              "RelativeToolTip": "Main\\ViewModels\\AdminViewModel.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAAwKQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T18:11:23.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\ViewModels\\BookViewModel.cs",
+              "RelativeDocumentMoniker": "Main\\ViewModels\\BookViewModel.cs",
+              "ToolTip": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\ViewModels\\BookViewModel.cs",
+              "RelativeToolTip": "Main\\ViewModels\\BookViewModel.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAwGgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T19:36:45.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CatalogViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\ViewModels\\CatalogViewModel.cs",
+              "RelativeDocumentMoniker": "Main\\ViewModels\\CatalogViewModel.cs",
+              "ToolTip": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\ViewModels\\CatalogViewModel.cs*",
+              "RelativeToolTip": "Main\\ViewModels\\CatalogViewModel.cs*",
+              "ViewState": "AgIAACgAAAAAAAAAAAA0wFEAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T18:11:01.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProfileView.xaml",
+              "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Views\\ProfileView.xaml",
+              "RelativeDocumentMoniker": "Main\\Views\\ProfileView.xaml",
+              "ToolTip": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Views\\ProfileView.xaml",
+              "RelativeToolTip": "Main\\Views\\ProfileView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-09T18:32:11.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "ProfileViewModel.cs",
               "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\ViewModels\\ProfileViewModel.cs",
               "RelativeDocumentMoniker": "Main\\ViewModels\\ProfileViewModel.cs",
@@ -161,54 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CatalogViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\ViewModels\\CatalogViewModel.cs",
-              "RelativeDocumentMoniker": "Main\\ViewModels\\CatalogViewModel.cs",
-              "ToolTip": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\ViewModels\\CatalogViewModel.cs",
-              "RelativeToolTip": "Main\\ViewModels\\CatalogViewModel.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAUwF0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-09T18:11:01.308Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AuthorView.xaml",
-              "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Views\\AuthorView.xaml",
-              "RelativeDocumentMoniker": "Main\\Views\\AuthorView.xaml",
-              "ToolTip": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Views\\AuthorView.xaml",
-              "RelativeToolTip": "Main\\Views\\AuthorView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-09T18:32:30.715Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AuthView.xaml",
-              "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Views\\AuthView.xaml",
-              "RelativeDocumentMoniker": "Main\\Views\\AuthView.xaml",
-              "ToolTip": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Views\\AuthView.xaml",
-              "RelativeToolTip": "Main\\Views\\AuthView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-09T14:54:43.404Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AuthViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\ViewModels\\AuthViewModel.cs",
-              "RelativeDocumentMoniker": "Main\\ViewModels\\AuthViewModel.cs",
-              "ToolTip": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\ViewModels\\AuthViewModel.cs",
-              "RelativeToolTip": "Main\\ViewModels\\AuthViewModel.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAYwC4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-09T15:48:45.887Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "MainViewModel.cs",
               "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\ViewModels\\MainViewModel.cs",
               "RelativeDocumentMoniker": "Main\\ViewModels\\MainViewModel.cs",
@@ -220,238 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainPageViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\ViewModels\\MainPageViewModel.cs",
-              "RelativeDocumentMoniker": "Main\\ViewModels\\MainPageViewModel.cs",
-              "ToolTip": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\ViewModels\\MainPageViewModel.cs",
-              "RelativeToolTip": "Main\\ViewModels\\MainPageViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-09T17:51:52.515Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FrozenViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\ViewModels\\FrozenViewModel.cs",
-              "RelativeDocumentMoniker": "Main\\ViewModels\\FrozenViewModel.cs",
-              "ToolTip": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\ViewModels\\FrozenViewModel.cs",
-              "RelativeToolTip": "Main\\ViewModels\\FrozenViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-09T18:11:49.089Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AuthorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\ViewModels\\AuthorViewModel.cs",
-              "RelativeDocumentMoniker": "Main\\ViewModels\\AuthorViewModel.cs",
-              "ToolTip": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\ViewModels\\AuthorViewModel.cs",
-              "RelativeToolTip": "Main\\ViewModels\\AuthorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-09T18:11:30.929Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AdminViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\ViewModels\\AdminViewModel.cs",
-              "RelativeDocumentMoniker": "Main\\ViewModels\\AdminViewModel.cs",
-              "ToolTip": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\ViewModels\\AdminViewModel.cs",
-              "RelativeToolTip": "Main\\ViewModels\\AdminViewModel.cs",
-              "ViewState": "AgIAAHgAAAAAAAAAAAAIwKoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-09T18:11:23.495Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "FrozenView.xaml",
-              "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Views\\FrozenView.xaml",
-              "RelativeDocumentMoniker": "Main\\Views\\FrozenView.xaml",
-              "ToolTip": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Views\\FrozenView.xaml",
-              "RelativeToolTip": "Main\\Views\\FrozenView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-09T18:32:39.428Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CatalogView.xaml",
-              "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Views\\CatalogView.xaml",
-              "RelativeDocumentMoniker": "Main\\Views\\CatalogView.xaml",
-              "ToolTip": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Views\\CatalogView.xaml",
-              "RelativeToolTip": "Main\\Views\\CatalogView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-09T18:31:44.974Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AdminView.xaml",
-              "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Views\\AdminView.xaml",
-              "RelativeDocumentMoniker": "Main\\Views\\AdminView.xaml",
-              "ToolTip": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Views\\AdminView.xaml",
-              "RelativeToolTip": "Main\\Views\\AdminView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-09T18:32:19.7Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "BookViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\ViewModels\\BookViewModel.cs",
-              "RelativeDocumentMoniker": "Main\\ViewModels\\BookViewModel.cs",
-              "ToolTip": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\ViewModels\\BookViewModel.cs",
-              "RelativeToolTip": "Main\\ViewModels\\BookViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-09T19:36:45.967Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ProfileView.xaml",
-              "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Views\\ProfileView.xaml",
-              "RelativeDocumentMoniker": "Main\\Views\\ProfileView.xaml",
-              "ToolTip": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Views\\ProfileView.xaml",
-              "RelativeToolTip": "Main\\Views\\ProfileView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-09T18:32:11.978Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ListsView.xaml",
-              "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Views\\ListsView.xaml",
-              "RelativeDocumentMoniker": "Main\\Views\\ListsView.xaml",
-              "ToolTip": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Views\\ListsView.xaml",
-              "RelativeToolTip": "Main\\Views\\ListsView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-09T18:31:58.273Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ListsViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\ViewModels\\ListsViewModel.cs",
-              "RelativeDocumentMoniker": "Main\\ViewModels\\ListsViewModel.cs",
-              "ToolTip": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\ViewModels\\ListsViewModel.cs",
-              "RelativeToolTip": "Main\\ViewModels\\ListsViewModel.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwFwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-09T18:11:07.717Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "BookView.xaml",
-              "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Views\\BookView.xaml",
-              "RelativeDocumentMoniker": "Main\\Views\\BookView.xaml",
-              "ToolTip": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Views\\BookView.xaml",
-              "RelativeToolTip": "Main\\Views\\BookView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-09T19:37:07.227Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "InputDialogWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Views\\InputDialogWindow.xaml",
-              "RelativeDocumentMoniker": "Main\\Views\\InputDialogWindow.xaml",
-              "ToolTip": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Views\\InputDialogWindow.xaml",
-              "RelativeToolTip": "Main\\Views\\InputDialogWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-09T20:01:11.457Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "InputDialogWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Views\\InputDialogWindow.xaml.cs",
-              "RelativeDocumentMoniker": "Main\\Views\\InputDialogWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Views\\InputDialogWindow.xaml.cs",
-              "RelativeToolTip": "Main\\Views\\InputDialogWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-09T20:01:59.747Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "Main\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\MainWindow.xaml",
-              "RelativeToolTip": "Main\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-09T11:32:04.915Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "BookExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Models\\BookExtensions.cs",
-              "RelativeDocumentMoniker": "Main\\Models\\BookExtensions.cs",
-              "ToolTip": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Models\\BookExtensions.cs",
-              "RelativeToolTip": "Main\\Models\\BookExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-09T18:46:13.327Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "AuthorView.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Views\\AuthorView.xaml.cs",
-              "RelativeDocumentMoniker": "Main\\Views\\AuthorView.xaml.cs",
-              "ToolTip": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Views\\AuthorView.xaml.cs",
-              "RelativeToolTip": "Main\\Views\\AuthorView.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-09T18:33:11.639Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Core.cs",
-              "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Core.cs",
-              "RelativeDocumentMoniker": "Main\\Core.cs",
-              "ToolTip": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Core.cs",
-              "RelativeToolTip": "Main\\Core.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-09T11:40:52.662Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "JesterAndKingContext.cs",
-              "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Models\\JesterAndKingContext.cs",
-              "RelativeDocumentMoniker": "Main\\Models\\JesterAndKingContext.cs",
-              "ToolTip": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Models\\JesterAndKingContext.cs",
-              "RelativeToolTip": "Main\\Models\\JesterAndKingContext.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwCgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-09T18:22:24.694Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "MainPageView.xaml",
-              "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Views\\MainPageView.xaml",
-              "RelativeDocumentMoniker": "Main\\Views\\MainPageView.xaml",
-              "ToolTip": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Views\\MainPageView.xaml",
-              "RelativeToolTip": "Main\\Views\\MainPageView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-09T17:51:37.415Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Main\\MainWindow.xaml.cs",
@@ -463,7 +347,288 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UnfreezeApplication.cs",
+              "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Models\\UnfreezeApplication.cs",
+              "RelativeDocumentMoniker": "Main\\Models\\UnfreezeApplication.cs",
+              "ToolTip": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Models\\UnfreezeApplication.cs",
+              "RelativeToolTip": "Main\\Models\\UnfreezeApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T15:10:18.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrozenView.xaml",
+              "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Views\\FrozenView.xaml",
+              "RelativeDocumentMoniker": "Main\\Views\\FrozenView.xaml",
+              "ToolTip": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Views\\FrozenView.xaml",
+              "RelativeToolTip": "Main\\Views\\FrozenView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-09T18:32:39.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainPageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\ViewModels\\MainPageViewModel.cs",
+              "RelativeDocumentMoniker": "Main\\ViewModels\\MainPageViewModel.cs",
+              "ToolTip": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\ViewModels\\MainPageViewModel.cs",
+              "RelativeToolTip": "Main\\ViewModels\\MainPageViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T17:51:52.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "Main\\Models\\Genre.cs",
+              "ToolTip": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Models\\Genre.cs",
+              "RelativeToolTip": "Main\\Models\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T15:10:25.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Main\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Models\\User.cs",
+              "RelativeToolTip": "Main\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T15:10:16.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdminView.xaml",
+              "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Views\\AdminView.xaml",
+              "RelativeDocumentMoniker": "Main\\Views\\AdminView.xaml",
+              "ToolTip": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Views\\AdminView.xaml",
+              "RelativeToolTip": "Main\\Views\\AdminView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-09T18:32:19.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainPageView.xaml",
+              "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Views\\MainPageView.xaml",
+              "RelativeDocumentMoniker": "Main\\Views\\MainPageView.xaml",
+              "ToolTip": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Views\\MainPageView.xaml",
+              "RelativeToolTip": "Main\\Views\\MainPageView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-09T17:51:37.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Main\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Models\\Book.cs",
+              "RelativeToolTip": "Main\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T15:10:28.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ListsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\ViewModels\\ListsViewModel.cs",
+              "RelativeDocumentMoniker": "Main\\ViewModels\\ListsViewModel.cs",
+              "ToolTip": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\ViewModels\\ListsViewModel.cs",
+              "RelativeToolTip": "Main\\ViewModels\\ListsViewModel.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAYwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T18:11:07.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Core.cs",
+              "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Core.cs",
+              "RelativeDocumentMoniker": "Main\\Core.cs",
+              "ToolTip": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Core.cs",
+              "RelativeToolTip": "Main\\Core.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T11:40:52.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RoleApplication.cs",
+              "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Models\\RoleApplication.cs",
+              "RelativeDocumentMoniker": "Main\\Models\\RoleApplication.cs",
+              "ToolTip": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Models\\RoleApplication.cs",
+              "RelativeToolTip": "Main\\Models\\RoleApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T15:10:19.341Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 28,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Main\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Models\\Role.cs",
+              "RelativeToolTip": "Main\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T15:10:20.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "Main\\Models\\Review.cs",
+              "ToolTip": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Models\\Review.cs",
+              "RelativeToolTip": "Main\\Models\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T15:10:22.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ReadingList.cs",
+              "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Models\\ReadingList.cs",
+              "RelativeDocumentMoniker": "Main\\Models\\ReadingList.cs",
+              "ToolTip": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Models\\ReadingList.cs",
+              "RelativeToolTip": "Main\\Models\\ReadingList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T15:10:22.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Complaint.cs",
+              "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Models\\Complaint.cs",
+              "RelativeDocumentMoniker": "Main\\Models\\Complaint.cs",
+              "ToolTip": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Models\\Complaint.cs",
+              "RelativeToolTip": "Main\\Models\\Complaint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T15:10:26.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BookExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Models\\BookExtensions.cs",
+              "RelativeDocumentMoniker": "Main\\Models\\BookExtensions.cs",
+              "ToolTip": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Models\\BookExtensions.cs",
+              "RelativeToolTip": "Main\\Models\\BookExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T18:46:13.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "JesterAndKingContext.cs",
+              "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Models\\JesterAndKingContext.cs",
+              "RelativeDocumentMoniker": "Main\\Models\\JesterAndKingContext.cs",
+              "ToolTip": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Models\\JesterAndKingContext.cs",
+              "RelativeToolTip": "Main\\Models\\JesterAndKingContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T18:22:24.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BookView.xaml",
+              "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Views\\BookView.xaml",
+              "RelativeDocumentMoniker": "Main\\Views\\BookView.xaml",
+              "ToolTip": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Views\\BookView.xaml",
+              "RelativeToolTip": "Main\\Views\\BookView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-09T19:37:07.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CatalogView.xaml",
+              "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Views\\CatalogView.xaml",
+              "RelativeDocumentMoniker": "Main\\Views\\CatalogView.xaml",
+              "ToolTip": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Views\\CatalogView.xaml",
+              "RelativeToolTip": "Main\\Views\\CatalogView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-09T18:31:44.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "InputDialogWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Views\\InputDialogWindow.xaml",
+              "RelativeDocumentMoniker": "Main\\Views\\InputDialogWindow.xaml",
+              "ToolTip": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Views\\InputDialogWindow.xaml",
+              "RelativeToolTip": "Main\\Views\\InputDialogWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-09T20:01:11.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ListsView.xaml",
+              "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Views\\ListsView.xaml",
+              "RelativeDocumentMoniker": "Main\\Views\\ListsView.xaml",
+              "ToolTip": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Views\\ListsView.xaml",
+              "RelativeToolTip": "Main\\Views\\ListsView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-09T18:31:58.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Main\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\AssemblyInfo.cs",
+              "RelativeToolTip": "Main\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T15:06:59.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "InputDialogWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Views\\InputDialogWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Main\\Views\\InputDialogWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Views\\InputDialogWindow.xaml.cs",
+              "RelativeToolTip": "Main\\Views\\InputDialogWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T20:01:59.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AuthorView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Views\\AuthorView.xaml.cs",
+              "RelativeDocumentMoniker": "Main\\Views\\AuthorView.xaml.cs",
+              "ToolTip": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Views\\AuthorView.xaml.cs",
+              "RelativeToolTip": "Main\\Views\\AuthorView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T18:33:11.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
               "Title": "AuthView.xaml.cs",
               "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\Views\\AuthView.xaml.cs",
               "RelativeDocumentMoniker": "Main\\Views\\AuthView.xaml.cs",
@@ -475,7 +640,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 37,
               "Title": "ButtonBase.cs",
               "DocumentMoniker": "C:\\Users\\KorZh\\AppData\\Local\\Temp\\.vsdbgsrc\\d1133ca555bae3deeef706846e68161f5c2e94891602db57b1fa935528f94322\\ButtonBase.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\d1133ca555bae3deeef706846e68161f5c2e94891602db57b1fa935528f94322\\ButtonBase.cs",
@@ -488,7 +653,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 39,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\App.xaml",
               "RelativeDocumentMoniker": "Main\\App.xaml",
@@ -499,7 +664,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 40,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\KorZh\\Desktop\\Z\\Code\\C#\\VS\\\u0423\u041F \u0413\u043E\u0440\u0434\u043E\u0432\\Main\\App.xaml.cs",
               "RelativeDocumentMoniker": "Main\\App.xaml.cs",
