@@ -1,39 +1,34 @@
-﻿using System.Linq;
-using System.Windows;
+﻿using System.Windows;
 using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
 using Main.Models;
-using Main.Views;
 using Microsoft.EntityFrameworkCore;
 
 namespace Main.ViewModels
 {
     partial class BookViewModel : ObservableObject
     {
-        private readonly Action<ObservableObject> _navigate;
+       
+        public event Action GoBackRequested;
 
         [ObservableProperty] private Book _book;
         [ObservableProperty] private string _reviewText = "";
         [ObservableProperty] private int _reviewRating = 5;
 
+       
         public string Genres => string.Join(", ", _book.BooksGenres.Select(bg => bg.Genre.GenreName));
         public string Author => _book.User.Nickname;
 
-        public BookViewModel(Book book, Action<ObservableObject> navigate)
+        public BookViewModel(Book book)
         {
-            _navigate = navigate;
-            _book = Core.Context.Books
-                .Include(b => b.User)
-                .Include(b => b.BooksGenres).ThenInclude(bg => bg.Genre)
-                .Include(b => b.Reviews).ThenInclude(r => r.User)
-                .First(b => b.ID == book.ID);
-
-            Core.CurrentUser = Core.Context.Users
-                .Include(u => u.Role)
-                .First(u => u.ID == Core.CurrentUser.ID);
+            _book = book;
         }
+
         [RelayCommand]
-        private void GoBack() => _navigate(new CatalogViewModel(_navigate));
+        private void GoBack()
+        {
+            GoBackRequested?.Invoke();
+        }
 
         [RelayCommand]
         private void AddReview()
@@ -49,12 +44,13 @@ namespace Main.ViewModels
                 Text = ReviewText,
                 Rating = ReviewRating,
                 UserId = Core.CurrentUser.ID,
-                BookId = Book.ID
+                BookId = Book.ID 
             };
 
             Core.Context.Reviews.Add(review);
             Core.Context.SaveChanges();
 
+            
             Book = Core.Context.Books
                 .Include(b => b.User)
                 .Include(b => b.BooksGenres).ThenInclude(bg => bg.Genre)
@@ -64,6 +60,7 @@ namespace Main.ViewModels
             ReviewText = "";
             ReviewRating = 5;
         }
+
         private string? ShowInputDialog(string message)
         {
             var dialog = new InputDialogWindow(message);
@@ -96,9 +93,10 @@ namespace Main.ViewModels
             var reason = ShowInputDialog("Причина жалобы на отзыв:");
             if (reason == null) return;
             Core.Context.Complaints.Add(new Complaint { UserId = Core.CurrentUser.ID, ReviewId = review.ID, Reason = reason });
-            Core.Context.SaveChanges();
+            Core.Context.SaveChanges(); 
             MessageBox.Show("Жалоба отправлена");
         }
+
         public bool IsAdmin => Core.CurrentUser.Role?.RoleName == "Admin";
 
         [RelayCommand]

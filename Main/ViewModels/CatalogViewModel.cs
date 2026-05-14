@@ -1,28 +1,17 @@
-﻿using System.Collections.Generic;
-using System.Collections.ObjectModel;
+﻿using System.Collections.ObjectModel;
 using System.Linq;
 using System.Windows;
 using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
 using Main.Models;
 using Microsoft.EntityFrameworkCore;
-using static System.Reflection.Metadata.BlobBuilder;
 
 namespace Main.ViewModels
 {
     partial class CatalogViewModel : ObservableObject
     {
-        private readonly Action<ObservableObject> _navigate;
-
-        public CatalogViewModel(Action<ObservableObject> navigate)
-        {
-            _navigate = navigate;
-            Genres = new ObservableCollection<Genre>(Core.Context.Genres.ToList());
-            LoadBooks();
-        }
-
-        [RelayCommand]
-        private void OpenBook(Book book) => _navigate(new BookViewModel(book, _navigate));
+        
+        public event Action<Book> BookOpened;
 
         [ObservableProperty] private ObservableCollection<Book> _books = new();
         [ObservableProperty] private ObservableCollection<Genre> _genres = new();
@@ -37,6 +26,7 @@ namespace Main.ViewModels
             Genres = new ObservableCollection<Genre>(Core.Context.Genres.ToList());
             LoadBooks();
         }
+
         [RelayCommand]
         private void ResetGenre()
         {
@@ -45,8 +35,6 @@ namespace Main.ViewModels
             LoadBooks();
         }
 
-       
-       
         partial void OnSearchChanged(string value) => LoadBooks();
         partial void OnSelectedGenreChanged(Genre? value) => LoadBooks();
         partial void OnSortByChanged(string value) => LoadBooks();
@@ -75,6 +63,13 @@ namespace Main.ViewModels
 
             Books = new ObservableCollection<Book>(list);
         }
+
+        [RelayCommand]
+        private void OpenBook(Book book)
+        {
+            BookOpened?.Invoke(book);
+        }
+
         [RelayCommand]
         private void AddToList(Book book)
         {

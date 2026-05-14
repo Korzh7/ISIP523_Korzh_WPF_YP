@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET10_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NET9_0_OR_GREATER;NET10_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
 C:\Users\KorZh\Desktop\Z\Code\C#\VS\УП Гордов\Main\App.xaml
-111638905073
+111894337018
 
-39-61190415
+373590420
 2801492133454
-MainWindow.xaml;Views\AdminView.xaml;Views\AuthorView.xaml;Views\AuthView.xaml;Views\BookView.xaml;Views\CatalogView.xaml;Views\FrozenView.xaml;Views\InputDialogWindow.xaml;Views\ListsView.xaml;Views\MainPageView.xaml;Views\ProfileView.xaml;
+InputDialogWindow.xaml;MainWindow.xaml;Pages\AdminPage.xaml;Pages\AuthorPage.xaml;Pages\AuthPage.xaml;Pages\BookPage.xaml;Pages\CatalogPage.xaml;Pages\FrozenPage.xaml;Pages\ListsPage.xaml;Pages\MainPage.xaml;Pages\ProfilePage.xaml;
 
 False
 

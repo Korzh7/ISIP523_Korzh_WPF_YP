@@ -1,7 +1,6 @@
 ﻿using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
 using Main.Models;
-using Main.Views;
 using System.Windows;
 
 namespace Main.ViewModels

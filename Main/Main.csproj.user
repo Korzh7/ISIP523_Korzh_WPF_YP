@@ -2,34 +2,34 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup />
   <ItemGroup>
-    <Compile Update="Views\AdminView.xaml.cs">
+    <Compile Update="InputDialogWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="Views\AuthorView.xaml.cs">
+    <Compile Update="Pages\AdminPage.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="Views\AuthView.xaml.cs">
+    <Compile Update="Pages\AuthorPage.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="Views\BookView.xaml.cs">
+    <Compile Update="Pages\AuthPage.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="Views\CatalogView.xaml.cs">
+    <Compile Update="Pages\BookPage.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="Views\FrozenView.xaml.cs">
+    <Compile Update="Pages\CatalogPage.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="Views\InputDialogWindow.xaml.cs">
+    <Compile Update="Pages\FrozenPage.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="Views\ListsView.xaml.cs">
+    <Compile Update="Pages\ListsPage.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="Views\MainPageView.xaml.cs">
+    <Compile Update="Pages\MainPage.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="Views\ProfileView.xaml.cs">
+    <Compile Update="Pages\ProfilePage.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>

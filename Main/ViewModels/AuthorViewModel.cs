@@ -1,13 +1,9 @@
 ﻿using System.Collections.ObjectModel;
-using System.Linq;
 using System.Windows;
 using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
 using Main.Models;
-using Main.Views;
 using Microsoft.EntityFrameworkCore;
-using static System.Net.Mime.MediaTypeNames;
-using static System.Reflection.Metadata.BlobBuilder;
 
 namespace Main.ViewModels
 {
@@ -27,7 +23,10 @@ namespace Main.ViewModels
         {
             LoadBooks();
         }
-
+        
+        /// <summary>
+        /// Загружает список книг из БД с учётом текущего поиска, жанра и сортировки
+        /// </summary>
         private void LoadBooks()
         {
             var all = Core.Context.Books

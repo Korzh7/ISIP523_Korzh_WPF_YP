@@ -1,10 +1,8 @@
 ﻿using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
 using Main.Models;
-using Main.Views;
 using Microsoft.EntityFrameworkCore;
 using System.Collections.ObjectModel;
-using System.Linq;
 using System.Windows;
 
 namespace Main.ViewModels
@@ -27,11 +25,10 @@ namespace Main.ViewModels
                 .First(u => u.ID == Core.CurrentUser.ID);
 
             Core.CurrentUser = User;
-
             Reviews = new ObservableCollection<Review>(User.Reviews);
 
             CanApplyForAuthor = User.Role?.RoleName == "Reader" &&
-                !User.RoleApplications.Any(a => a.Status == "Pending");
+                                !User.RoleApplications.Any(a => a.Status == "Pending");
         }
 
         [RelayCommand]

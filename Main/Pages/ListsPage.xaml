@@ -1,0 +1,65 @@
+﻿<Page x:Class="Main.Pages.ListsPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Main.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="ListsPage">
+
+    <Page.Resources>
+        <Style x:Key="StatusButton" TargetType="Button">
+            <Setter Property="Margin" Value="0,0,8,0"/>
+            <Setter Property="Padding" Value="12,6"/>
+        </Style>
+    </Page.Resources>
+    <Grid Margin="16">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0" Orientation="Horizontal" Margin="0,0,0,12">
+            <Button Content="Читаю" Style="{StaticResource StatusButton}" Command="{Binding SwitchStatusCommand}" CommandParameter="Reading"/>
+            <Button Content="В планах" Style="{StaticResource StatusButton}" Command="{Binding SwitchStatusCommand}" CommandParameter="Planned"/>
+            <Button Content="Заброшено" Style="{StaticResource StatusButton}" Command="{Binding SwitchStatusCommand}" CommandParameter="Abandoned"/>
+            <Button Content="Прочитано" Style="{StaticResource StatusButton}" Command="{Binding SwitchStatusCommand}" CommandParameter="Read"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="1" Orientation="Horizontal" Margin="0,0,0,12">
+            <TextBox Text="{Binding Search, UpdateSourceTrigger=PropertyChanged}" Width="200" Margin="0,0,8,0" Height="32" VerticalContentAlignment="Center"/>
+            <ComboBox ItemsSource="{Binding Genres}" SelectedItem="{Binding SelectedGenre}" DisplayMemberPath="GenreName" Width="150" Margin="0,0,8,0" Height="32"/>
+            <Button Content="Сбросить жанр" Height="32" Margin="0,0,8,0" Command="{Binding ResetGenreCommand}"/>
+            <ComboBox ItemsSource="{Binding SortOptions}" SelectedItem="{Binding SortBy}" Width="120" Height="32"/>
+        </StackPanel>
+
+        <ScrollViewer Grid.Row="2" VerticalScrollBarVisibility="Auto">
+            <ItemsControl ItemsSource="{Binding Books}">
+                <ItemsControl.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <WrapPanel/>
+                    </ItemsPanelTemplate>
+                </ItemsControl.ItemsPanel>
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate>
+                        <Border Width="160" Margin="8" Padding="8" BorderBrush="#CCCCCC" BorderThickness="1" CornerRadius="4">
+                            <StackPanel>
+                                <Image Source="{Binding Book.ImageURL}" Height="200" Stretch="UniformToFill"/>
+                                <TextBlock Text="{Binding Book.BookName}" FontWeight="Bold" TextWrapping="Wrap" Margin="0,6,0,2"/>
+                                <TextBlock Text="{Binding Book.User.Nickname}" Foreground="Gray" FontSize="11"/>
+                                <TextBlock Text="{Binding Book.AverageRatingText}" Foreground="#E8A020" FontSize="11"/>
+                                <ComboBox Margin="0,6,0,0" Height="28" SelectedValue="{Binding Status}" SelectedValuePath="Key" DisplayMemberPath="Value"
+                                          ItemsSource="{Binding DataContext.StatusNames, RelativeSource={RelativeSource AncestorType=ItemsControl}}"/>
+                                <Button Content="Переместить" Margin="0,4,0,0"
+                                        Command="{Binding DataContext.MoveBookCommand, RelativeSource={RelativeSource AncestorType=ItemsControl}}"
+                                        CommandParameter="{Binding}"/>
+                            </StackPanel>
+                        </Border>
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+            </ItemsControl>
+        </ScrollViewer>
+    </Grid>
+</Page>

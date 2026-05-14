@@ -1,10 +1,11 @@
-﻿using CommunityToolkit.Mvvm.ComponentModel;
+﻿using System.Collections.ObjectModel;
+using System.Linq;
+using System.Windows;
+using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
 using Main.Models;
 using Microsoft.EntityFrameworkCore;
-using System.Collections.ObjectModel;
-using System.Linq;
-using System.Windows;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
 
 namespace Main.ViewModels
 {
@@ -148,7 +149,7 @@ namespace Main.ViewModels
         [RelayCommand]
         private void ChangePassword(User user)
         {
-            var dialog = new Views.InputDialogWindow("Новый пароль:");
+            var dialog = new InputDialogWindow("Новый пароль:");
             if (dialog.ShowDialog() != true) return;
             user.Password = dialog.Result;
             Core.Context.SaveChanges();

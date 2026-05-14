@@ -4,7 +4,6 @@ using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
 using Main.Models;
 using Microsoft.EntityFrameworkCore;
-using static System.Reflection.Metadata.BlobBuilder;
 
 namespace Main.ViewModels
 {
@@ -19,6 +18,7 @@ namespace Main.ViewModels
 
         public List<string> SortOptions => new() { "Name", "Rating" };
         public List<string> Statuses => new() { "Reading", "Planned", "Abandoned", "Read" };
+
         public Dictionary<string, string> StatusNames => new()
         {
             { "Reading", "Читаю" },
@@ -64,8 +64,7 @@ namespace Main.ViewModels
         }
 
         [RelayCommand]
-        private void ChangeStatus(ReadingList item)
-        {
+        private void ChangeStatus(ReadingList item) { 
         }
 
         [RelayCommand]
@@ -84,9 +83,6 @@ namespace Main.ViewModels
         }
 
         [RelayCommand]
-        private void SwitchStatus(string status)
-        {
-            CurrentStatus = status;
-        }
+        private void SwitchStatus(string status) => CurrentStatus = status;
     }
 }

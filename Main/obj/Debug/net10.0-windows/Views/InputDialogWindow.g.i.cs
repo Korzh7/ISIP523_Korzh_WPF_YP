@@ -68,7 +68,7 @@ namespace Main.Views {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Main;component/views/inputdialogwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Main;V1.0.0.0;component/views/inputdialogwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Views\InputDialogWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

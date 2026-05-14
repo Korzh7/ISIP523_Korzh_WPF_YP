@@ -9,12 +9,9 @@ namespace Main.ViewModels
 {
     partial class AuthViewModel : ObservableObject
     {
-        private readonly Action<ObservableObject> _navigate;
+        
+        public event Action LoginSuccess;
 
-        public AuthViewModel(Action<ObservableObject> navigate)
-        {
-            _navigate = navigate;
-        }
         [ObservableProperty] private bool _isLoginMode = true;
         [ObservableProperty] private string _login = "";
         [ObservableProperty] private string _password = "";
@@ -40,10 +37,15 @@ namespace Main.ViewModels
                 .Include(u => u.Role)
                 .FirstOrDefault(u => u.Login == Login && u.Password == Password);
 
-            if (user == null) { MessageBox.Show("Неверный логин или пароль"); return; }
+            if (user == null)
+            {
+                MessageBox.Show("Неверный логин или пароль");
+                return;
+            }
 
             Core.CurrentUser = user;
-            _navigate(new MainPageViewModel());
+
+            LoginSuccess?.Invoke();
         }
 
         private void TryRegister()
@@ -73,7 +75,7 @@ namespace Main.ViewModels
                 Password = Password,
                 Email = Email,
                 Nickname = Nickname,
-                RoleId = 1
+                RoleId = 1 
             };
 
             Core.Context.Users.Add(user);

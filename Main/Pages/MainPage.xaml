@@ -1,0 +1,72 @@
+﻿<Page x:Class="Main.Pages.MainPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Main.Pages" xmlns:iconPacks="http://metro.mahapps.com/winfx/xaml/iconpacks"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="MainPage">
+
+    <Page.Resources>
+        <Style x:Key="SidebarButton" TargetType="Button">
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="Height" Value="60"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Background" Value="#3D3D3D"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </Page.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="60"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.Column="0" Background="#2D2D2D">
+            <Button Click="Catalog_Click" Style="{StaticResource SidebarButton}">
+                <Button.ToolTip>
+                    <ToolTip Content="Каталог книг"/>
+                </Button.ToolTip>
+                <iconPacks:PackIconMaterial Kind="BookOpenVariant" Width="24" Height="24"/>
+            </Button>
+            <Button Click="Lists_Click" Style="{StaticResource SidebarButton}">
+                <Button.ToolTip>
+                    <ToolTip Content="Списки книг"/>
+                </Button.ToolTip>
+                <iconPacks:PackIconMaterial Kind="BookmarkMultiple" Width="24" Height="24"/>
+            </Button>
+            <Button Click="Profile_Click" Style="{StaticResource SidebarButton}">
+                <Button.ToolTip>
+                    <ToolTip Content="Профиль"/>
+                </Button.ToolTip>
+                <iconPacks:PackIconMaterial Kind="Account" Width="24" Height="24"/>
+            </Button>
+            <Button x:Name="BtnAuthor" Click="Author_Click" Style="{StaticResource SidebarButton}" Visibility="Collapsed">
+                <Button.ToolTip>
+                    <ToolTip Content="Страница автора"/>
+                </Button.ToolTip>
+                <iconPacks:PackIconMaterial Kind="Pen" Width="24" Height="24"/>
+            </Button>
+            <Button x:Name="BtnAdmin" Click="Admin_Click" Style="{StaticResource SidebarButton}" Visibility="Collapsed">
+                <Button.ToolTip>
+                    <ToolTip Content="Администрирование"/>
+                </Button.ToolTip>
+                <iconPacks:PackIconMaterial Kind="ShieldAccount" Width="24" Height="24"/>
+            </Button>
+            <Button x:Name="BtnFrozen" Click="Frozen_Click" Style="{StaticResource SidebarButton}" Visibility="Collapsed">
+                <Button.ToolTip>
+                    <ToolTip Content="Заморозка аккаунта"/>
+                </Button.ToolTip>
+                <iconPacks:PackIconMaterial Kind="Snowflake" Width="24" Height="24" Foreground="Red"/>
+            </Button>
+        </StackPanel>
+
+        <Frame x:Name="ContentFrame" Grid.Column="1" NavigationUIVisibility="Hidden"/>
+    </Grid>
+</Page>
